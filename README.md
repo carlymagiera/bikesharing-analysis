@@ -12,6 +12,7 @@ The purpose of this project is to use the Citi bike data to create visualization
 
 
 **Gender Key** 
+
 ![gender key](images/key.png)
 
 ### Total number of trips
