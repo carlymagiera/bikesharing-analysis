@@ -10,34 +10,42 @@ The purpose of this project is to use the Citi bike data to create visualization
 
 [Tableau Story Link](https://public.tableau.com/app/profile/carly.magiera/viz/citibike_analysis_16532597128890/BikesharingAnalysis)
 
-**Gender Key** ![gender key](images/key.png)
+
+**Gender Key** 
+![gender key](images/key.png)
 
 ### Total number of trips
 ![Total number of trips](images/1.png)
+
 There were 2,344,334 trips taken in the NYC bike sharing program. This high number or trips speaks to the success of the program.
 
 ### User Breakdown
 ![User Breakdown](images/2.png)
+
 The pie chart shows the user breakdown by gender. The largest user group is male.
 
 ### Trips by Weekday by User type
 ![Trips by Weekday by User type](images/3.png)
+
 The heatmap of trips by weekday by gender by user type shows that male subscribers are the most common type of user across all days of the week. 
 
 ### Trips by Weekday by Gender
 ![Trips by Weekday by Gender](images/4.png)
 Trips were broken down by weekday by hour by gender. Males are the most common users at peak hours. 
 
-# Trips by Duration by Gender
+### Trips by Duration by Gender
 ![Trips by Duration by Gender](images/5.png)
+
 Trips were graphed by duration by gender. there is a large gap between the male user group and any other user group. 
 
-# Trips by Weekday per Hour
+### Trips by Weekday per Hour
 ![Trips by Weekday per Hour](images/6.png)
+
 Trips by weekday per hour were presented in a heat map to show that peak usage of bikes is during work commute hours.
 
-# Bikes Trips by Duration
+### Bikes Trips by Duration
 ![Bikes Trips by Duration](images/7.png)
+
 Graphing trips by trip duration demonstrated that most trips last under one hour. 
 
 ## Summary
